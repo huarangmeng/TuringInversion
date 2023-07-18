@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TuringInversion"
 include(":app")
+include(":base")
